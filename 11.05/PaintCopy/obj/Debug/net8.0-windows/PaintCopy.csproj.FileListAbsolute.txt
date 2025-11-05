@@ -1,0 +1,16 @@
+C:\Users\Edina\source\repos\GameCharacters\PaintCopy\bin\Debug\net8.0-windows\PaintCopy.exe
+C:\Users\Edina\source\repos\GameCharacters\PaintCopy\bin\Debug\net8.0-windows\PaintCopy.deps.json
+C:\Users\Edina\source\repos\GameCharacters\PaintCopy\bin\Debug\net8.0-windows\PaintCopy.runtimeconfig.json
+C:\Users\Edina\source\repos\GameCharacters\PaintCopy\bin\Debug\net8.0-windows\PaintCopy.dll
+C:\Users\Edina\source\repos\GameCharacters\PaintCopy\bin\Debug\net8.0-windows\PaintCopy.pdb
+C:\Users\Edina\source\repos\GameCharacters\PaintCopy\obj\Debug\net8.0-windows\PaintCopy.Form1.resources
+C:\Users\Edina\source\repos\GameCharacters\PaintCopy\obj\Debug\net8.0-windows\PaintCopy.csproj.GenerateResource.cache
+C:\Users\Edina\source\repos\GameCharacters\PaintCopy\obj\Debug\net8.0-windows\PaintCopy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edina\source\repos\GameCharacters\PaintCopy\obj\Debug\net8.0-windows\PaintCopy.AssemblyInfoInputs.cache
+C:\Users\Edina\source\repos\GameCharacters\PaintCopy\obj\Debug\net8.0-windows\PaintCopy.AssemblyInfo.cs
+C:\Users\Edina\source\repos\GameCharacters\PaintCopy\obj\Debug\net8.0-windows\PaintCopy.csproj.CoreCompileInputs.cache
+C:\Users\Edina\source\repos\GameCharacters\PaintCopy\obj\Debug\net8.0-windows\PaintCopy.dll
+C:\Users\Edina\source\repos\GameCharacters\PaintCopy\obj\Debug\net8.0-windows\refint\PaintCopy.dll
+C:\Users\Edina\source\repos\GameCharacters\PaintCopy\obj\Debug\net8.0-windows\PaintCopy.pdb
+C:\Users\Edina\source\repos\GameCharacters\PaintCopy\obj\Debug\net8.0-windows\PaintCopy.genruntimeconfig.cache
+C:\Users\Edina\source\repos\GameCharacters\PaintCopy\obj\Debug\net8.0-windows\ref\PaintCopy.dll

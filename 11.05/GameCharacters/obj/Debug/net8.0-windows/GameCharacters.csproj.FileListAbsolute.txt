@@ -1,0 +1,16 @@
+C:\Users\Edina\source\repos\GameCharacters\GameCharacters\obj\Debug\net8.0-windows\GameCharacters.Form1.resources
+C:\Users\Edina\source\repos\GameCharacters\GameCharacters\obj\Debug\net8.0-windows\GameCharacters.csproj.GenerateResource.cache
+C:\Users\Edina\source\repos\GameCharacters\GameCharacters\obj\Debug\net8.0-windows\GameCharacters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edina\source\repos\GameCharacters\GameCharacters\obj\Debug\net8.0-windows\GameCharacters.AssemblyInfoInputs.cache
+C:\Users\Edina\source\repos\GameCharacters\GameCharacters\obj\Debug\net8.0-windows\GameCharacters.AssemblyInfo.cs
+C:\Users\Edina\source\repos\GameCharacters\GameCharacters\obj\Debug\net8.0-windows\GameCharacters.csproj.CoreCompileInputs.cache
+C:\Users\Edina\source\repos\GameCharacters\GameCharacters\bin\Debug\net8.0-windows\GameCharacters.exe
+C:\Users\Edina\source\repos\GameCharacters\GameCharacters\bin\Debug\net8.0-windows\GameCharacters.deps.json
+C:\Users\Edina\source\repos\GameCharacters\GameCharacters\bin\Debug\net8.0-windows\GameCharacters.runtimeconfig.json
+C:\Users\Edina\source\repos\GameCharacters\GameCharacters\bin\Debug\net8.0-windows\GameCharacters.dll
+C:\Users\Edina\source\repos\GameCharacters\GameCharacters\bin\Debug\net8.0-windows\GameCharacters.pdb
+C:\Users\Edina\source\repos\GameCharacters\GameCharacters\obj\Debug\net8.0-windows\GameCharacters.dll
+C:\Users\Edina\source\repos\GameCharacters\GameCharacters\obj\Debug\net8.0-windows\refint\GameCharacters.dll
+C:\Users\Edina\source\repos\GameCharacters\GameCharacters\obj\Debug\net8.0-windows\GameCharacters.pdb
+C:\Users\Edina\source\repos\GameCharacters\GameCharacters\obj\Debug\net8.0-windows\GameCharacters.genruntimeconfig.cache
+C:\Users\Edina\source\repos\GameCharacters\GameCharacters\obj\Debug\net8.0-windows\ref\GameCharacters.dll

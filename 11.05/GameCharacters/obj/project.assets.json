@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Edina\\source\\repos\\GameCharacters\\GameCharacters\\GameCharacters.csproj",
+      "projectUniqueName": "C:\\GitHub\\Csharpe\\11.05\\GameCharacters\\GameCharacters.csproj",
       "projectName": "GameCharacters",
-      "projectPath": "C:\\Users\\Edina\\source\\repos\\GameCharacters\\GameCharacters\\GameCharacters.csproj",
+      "projectPath": "C:\\GitHub\\Csharpe\\11.05\\GameCharacters\\GameCharacters.csproj",
       "packagesPath": "C:\\Users\\Edina\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Edina\\source\\repos\\GameCharacters\\GameCharacters\\obj\\",
+      "outputPath": "C:\\GitHub\\Csharpe\\11.05\\GameCharacters\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Edina\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Edina\\source\\repos\\GameCharacters\\PaintCopy\\PaintCopy.csproj": {}
+    "C:\\GitHub\\Csharpe\\11.05\\PaintCopy\\PaintCopy.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Edina\\source\\repos\\GameCharacters\\PaintCopy\\PaintCopy.csproj": {
+    "C:\\GitHub\\Csharpe\\11.05\\PaintCopy\\PaintCopy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Edina\\source\\repos\\GameCharacters\\PaintCopy\\PaintCopy.csproj",
+        "projectUniqueName": "C:\\GitHub\\Csharpe\\11.05\\PaintCopy\\PaintCopy.csproj",
         "projectName": "PaintCopy",
-        "projectPath": "C:\\Users\\Edina\\source\\repos\\GameCharacters\\PaintCopy\\PaintCopy.csproj",
+        "projectPath": "C:\\GitHub\\Csharpe\\11.05\\PaintCopy\\PaintCopy.csproj",
         "packagesPath": "C:\\Users\\Edina\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Edina\\source\\repos\\GameCharacters\\PaintCopy\\obj\\",
+        "outputPath": "C:\\GitHub\\Csharpe\\11.05\\PaintCopy\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Edina\\AppData\\Roaming\\NuGet\\NuGet.Config",

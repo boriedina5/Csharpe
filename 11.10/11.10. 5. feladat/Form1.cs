@@ -15,7 +15,8 @@ namespace _11._10._5._feladat
         }
 
         //Osztályban adok értéket
-        private void Game() { 
+        private void Game()
+        {
             Random rnd = new Random();
             haveToGuess = rnd.Next(1, 100);
             guessCount = 0;
@@ -37,10 +38,16 @@ namespace _11._10._5._feladat
                     guessCount++;
                 }
             }
-            else { 
+            else
+            {
                 sw.Stop();
                 MessageBox.Show($"You guessed!\nYour guess count: {guessCount}\nTime: {sw}");
             }
+        }
+
+        private void Solve_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show($"{haveToGuess}");
         }
     }
 }

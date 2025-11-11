@@ -33,6 +33,7 @@
             minititle = new Label();
             submit = new Button();
             label1 = new Label();
+            Solve = new Button();
             SuspendLayout();
             // 
             // title
@@ -80,11 +81,22 @@
             label1.TabIndex = 4;
             label1.Text = "1-100";
             // 
+            // Solve
+            // 
+            Solve.Location = new Point(220, 285);
+            Solve.Name = "Solve";
+            Solve.Size = new Size(370, 29);
+            Solve.TabIndex = 5;
+            Solve.Text = "Most már igazán megmutathatnád a megoldást";
+            Solve.UseVisualStyleBackColor = true;
+            Solve.Click += Solve_Click;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(Solve);
             Controls.Add(label1);
             Controls.Add(submit);
             Controls.Add(minititle);
@@ -103,5 +115,6 @@
         private Label minititle;
         private Button submit;
         private Label label1;
+        private Button Solve;
     }
 }

@@ -44,6 +44,7 @@
             // numb1
             // 
             numb1.Location = new Point(79, 98);
+            numb1.Maximum = new decimal(new int[] { 1569325056, 23283064, 0, 0 });
             numb1.Name = "numb1";
             numb1.Size = new Size(150, 27);
             numb1.TabIndex = 0;

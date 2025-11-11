@@ -1,0 +1,17 @@
+C:\GitHub\Csharpe\11.10\11.10. 4. feladat\bin\Debug\net8.0-windows\11.10. 4. feladat.exe
+C:\GitHub\Csharpe\11.10\11.10. 4. feladat\bin\Debug\net8.0-windows\11.10. 4. feladat.deps.json
+C:\GitHub\Csharpe\11.10\11.10. 4. feladat\bin\Debug\net8.0-windows\11.10. 4. feladat.runtimeconfig.json
+C:\GitHub\Csharpe\11.10\11.10. 4. feladat\bin\Debug\net8.0-windows\11.10. 4. feladat.dll
+C:\GitHub\Csharpe\11.10\11.10. 4. feladat\bin\Debug\net8.0-windows\11.10. 4. feladat.pdb
+C:\GitHub\Csharpe\11.10\11.10. 4. feladat\obj\Debug\net8.0-windows\_11._10._4._feladat.Form1.resources
+C:\GitHub\Csharpe\11.10\11.10. 4. feladat\obj\Debug\net8.0-windows\11.10. 4. feladat.csproj.GenerateResource.cache
+C:\GitHub\Csharpe\11.10\11.10. 4. feladat\obj\Debug\net8.0-windows\11.10. 4. feladat.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\Csharpe\11.10\11.10. 4. feladat\obj\Debug\net8.0-windows\11.10. 4. feladat.AssemblyInfoInputs.cache
+C:\GitHub\Csharpe\11.10\11.10. 4. feladat\obj\Debug\net8.0-windows\11.10. 4. feladat.AssemblyInfo.cs
+C:\GitHub\Csharpe\11.10\11.10. 4. feladat\obj\Debug\net8.0-windows\11.10. 4. feladat.csproj.CoreCompileInputs.cache
+C:\GitHub\Csharpe\11.10\11.10. 4. feladat\obj\Debug\net8.0-windows\11.10. 4. feladat.sourcelink.json
+C:\GitHub\Csharpe\11.10\11.10. 4. feladat\obj\Debug\net8.0-windows\11.10. 4. feladat.dll
+C:\GitHub\Csharpe\11.10\11.10. 4. feladat\obj\Debug\net8.0-windows\refint\11.10. 4. feladat.dll
+C:\GitHub\Csharpe\11.10\11.10. 4. feladat\obj\Debug\net8.0-windows\11.10. 4. feladat.pdb
+C:\GitHub\Csharpe\11.10\11.10. 4. feladat\obj\Debug\net8.0-windows\11.10. 4. feladat.genruntimeconfig.cache
+C:\GitHub\Csharpe\11.10\11.10. 4. feladat\obj\Debug\net8.0-windows\ref\11.10. 4. feladat.dll

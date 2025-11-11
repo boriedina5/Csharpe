@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\GitHub\\Csharpe\\11.11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{39C254B8-EACF-4075-800D-4FB5E336321D}|..\\11.11\\11.11. 1. feladat\\11.11. 2. feladat.csproj|c:\\github\\csharpe\\11.11\\11.11. 1. feladat\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39C254B8-EACF-4075-800D-4FB5E336321D}|..\\11.11\\11.11. 1. feladat\\11.11. 2. feladat.csproj|solutionrelative:11.11. 1. feladat\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39C254B8-EACF-4075-800D-4FB5E336321D}|..\\11.11\\11.11. 1. feladat\\11.11. 1. feladat.csproj|c:\\github\\csharpe\\11.11\\11.11. 1. feladat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39C254B8-EACF-4075-800D-4FB5E336321D}|..\\11.11\\11.11. 1. feladat\\11.11. 1. feladat.csproj|solutionrelative:11.11. 1. feladat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BAC65F1-8F71-423A-A66F-A24B1BA00F61}|..\\11.11\\11.11. 2. feladat\\11.11. 1. feladat.csproj|c:\\github\\csharpe\\11.11\\11.11. 2. feladat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BAC65F1-8F71-423A-A66F-A24B1BA00F61}|..\\11.11\\11.11. 2. feladat\\11.11. 1. feladat.csproj|solutionrelative:11.11. 2. feladat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BAC65F1-8F71-423A-A66F-A24B1BA00F61}|..\\11.11\\11.11. 2. feladat\\11.11. 1. feladat.csproj|c:\\github\\csharpe\\11.11\\11.11. 2. feladat\\cars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BAC65F1-8F71-423A-A66F-A24B1BA00F61}|..\\11.11\\11.11. 2. feladat\\11.11. 1. feladat.csproj|solutionrelative:11.11. 2. feladat\\cars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Students.cs",
+              "DocumentMoniker": "C:\\GitHub\\Csharpe\\11.11\\11.11. 1. feladat\\Students.cs",
+              "RelativeDocumentMoniker": "11.11. 1. feladat\\Students.cs",
+              "ToolTip": "C:\\GitHub\\Csharpe\\11.11\\11.11. 1. feladat\\Students.cs",
+              "RelativeToolTip": "11.11. 1. feladat\\Students.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA7wBQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T08:23:16.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cars.cs",
+              "DocumentMoniker": "C:\\GitHub\\Csharpe\\11.11\\11.11. 2. feladat\\Cars.cs",
+              "RelativeDocumentMoniker": "11.11. 2. feladat\\Cars.cs",
+              "ToolTip": "C:\\GitHub\\Csharpe\\11.11\\11.11. 2. feladat\\Cars.cs",
+              "RelativeToolTip": "11.11. 2. feladat\\Cars.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T08:22:02.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\GitHub\\Csharpe\\11.11\\11.11. 2. feladat\\Program.cs",
+              "RelativeDocumentMoniker": "11.11. 2. feladat\\Program.cs",
+              "ToolTip": "C:\\GitHub\\Csharpe\\11.11\\11.11. 2. feladat\\Program.cs",
+              "RelativeToolTip": "11.11. 2. feladat\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T08:21:04.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\GitHub\\Csharpe\\11.11\\11.11. 1. feladat\\Program.cs",
+              "RelativeDocumentMoniker": "11.11. 1. feladat\\Program.cs",
+              "ToolTip": "C:\\GitHub\\Csharpe\\11.11\\11.11. 1. feladat\\Program.cs",
+              "RelativeToolTip": "11.11. 1. feladat\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T08:20:27.236Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

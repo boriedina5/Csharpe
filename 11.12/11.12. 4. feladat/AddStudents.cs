@@ -18,6 +18,13 @@ namespace _11._12._4._feladat
         {
             InitializeComponent();
             studentGrades = new List<int>();
+            if (s != null) {
+                submitBTN.Text = "Modify";
+                Student = s;
+                nameTB.Text = Student.Name;
+                ageN.Value = Student.Age;
+                
+            }
         }
 
         private void submitBTN_Click(object sender, EventArgs e)

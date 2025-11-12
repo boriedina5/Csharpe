@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("11.12. 4. feladat")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+da3d8aa919d6e6d6417c81a7dd168e07b87c7198")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+696c49e4325231ac23787cbdfa7821b184d2280d")]
 [assembly: System.Reflection.AssemblyProductAttribute("11.12. 4. feladat")]
 [assembly: System.Reflection.AssemblyTitleAttribute("11.12. 4. feladat")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

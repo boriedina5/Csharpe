@@ -2,7 +2,7 @@ namespace _11._12._4._feladat
 {
     public partial class Form1 : Form
     {
-        List<Students> allStudents;
+        List<Students> allStudents; //Ebbe gyûjtöm a diákokat, hogy eg tudjam jeleníteni
         public Form1()
         {
             InitializeComponent();
@@ -10,17 +10,17 @@ namespace _11._12._4._feladat
             ListBoxShow(allStudents);
         }
 
-        public void ListBoxShow(List<Students> studentList) {
+        public void ListBoxShow(List<Students> studentList) { //listboxos megjelenítés
             lbStudents.Items.Clear();
-            foreach (var s in studentList) { 
+            foreach (var s in studentList) { //Végig megyek a listán és kiíratom
                 lbStudents.Items.Add(s);
             }
         }
 
         private void addBTN_Click(object sender, EventArgs e)
         {
-           AddStudents newStudent = new AddStudents();
-            if (newStudent.ShowDialog() == DialogResult.OK) {
+            AddStudents newStudent = new AddStudents(); //példány, hogy a AddStudent formból kimentsünk az adatokat
+            if (newStudent.ShowDialog() == DialogResult.OK) {//Párbeszéd megnyitása, hogy tudjunk módosítani <- ShowDialog mûveletet vár
                 allStudents.Add(newStudent.Student);
                 ListBoxShow(allStudents);
             }
@@ -31,9 +31,8 @@ namespace _11._12._4._feladat
             if (lbStudents.SelectedItem != null)
             {
                 int index = lbStudents.SelectedIndex;
-                AddStudents newStudent = new AddStudents(allStudents[index]);
+                AddStudents newStudent = new AddStudents(allStudents[index]);//mivel módosítok megadom neki kirõl van szó és mivel el van tárolva az allStudentsbe ott keresem a kijelölés alapján
                 if (newStudent.ShowDialog() == DialogResult.OK) {
-                    lbStudents.ClearSelected();
                     ListBoxShow(allStudents);
                 }
 
@@ -53,8 +52,8 @@ namespace _11._12._4._feladat
         private void searchBTN_Click(object sender, EventArgs e)
         {
             if (!string.IsNullOrEmpty(studentNameTB.Text)) { 
-                List<Students> searchedStudent = new List<Students>();
-                searchedStudent = allStudents.Where(x => x.Name.Contains(studentNameTB.Text)).ToList();
+                List<Students> searchedStudent = new List<Students>();//ide gyûjtöm, a listázotakat
+                searchedStudent = allStudents.Where(x => x.Name.Contains(studentNameTB.Text)).ToList(); //feltétel alapján szûrûnk majd listázunk
 
                 lbStudents.Items.Clear();
                 foreach (var searchedItem in searchedStudent) { 

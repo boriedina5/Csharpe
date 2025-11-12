@@ -14,14 +14,16 @@ namespace _11._12._4._feladat
     {
         public Students Student;//Létrehozom a példányt
         List<int> studentGrades;
-        public AddStudents(Students s = null)
+        public AddStudents(Students s = null) //opcionális paraméter -> módodul
         {
             InitializeComponent();
             studentGrades = new List<int>();
             if (s != null) {
                 submitBTN.Text = "Modify";
-                Student = s;
-                nameTB.Text = Student.Name;
+                
+                Student = s; //Fontos -> emiatt fog módosulni
+                
+                nameTB.Text = Student.Name; 
                 ageN.Value = Student.Age;
                 
             }
@@ -33,18 +35,20 @@ namespace _11._12._4._feladat
                 string name = nameTB.Text;
                 int age = (int)ageN.Value;
                 studentGrades.Add((int)gradeN.Value);
-                if (Student == null)//Add
+
+                //Egy formban van a módosítás és az új hozzáadása
+                if (Student == null)//Add - mivel még nincs benne semmi
                 {
                     Student = new Students(name, age, studentGrades);//Hozzáadom az értékeket a példányhoz
                 }
                 else { //Modify
-                    Student.Name = nameTB.Text;
+                    Student.Name = nameTB.Text; //Student. <- már meglévő diákot írok át
                     Student.Age = (int)ageN.Value;
                     Student.Grades.Add((int)gradeN.Value);
                 }
                 
 
-                DialogResult = DialogResult.OK;
+                DialogResult = DialogResult.OK;  //Megvannak a műveletek, minden jóvá lett hagyva
                 Close();
             }
 

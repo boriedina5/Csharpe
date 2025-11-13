@@ -20,7 +20,7 @@ namespace _11._12._4._feladat
         private void addBTN_Click(object sender, EventArgs e)
         {
             AddStudents newStudent = new AddStudents(); //példány, hogy a AddStudent formból kimentsünk az adatokat
-            if (newStudent.ShowDialog() == DialogResult.OK) {//Párbeszéd megnyitása, hogy tudjunk módosítani <- ShowDialog mûveletet vár
+            if (newStudent.ShowDialog() == DialogResult.OK) {//Párbeszédet megnyitom a newStudentre, hogy tudjunk módosítani <- ShowDialog mûveletet vár
                 allStudents.Add(newStudent.Student);
                 ListBoxShow(allStudents);
             }

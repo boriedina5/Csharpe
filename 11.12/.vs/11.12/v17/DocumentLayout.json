@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\GitHub\\Csharpe\\11.12\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3B4C8607-4005-4532-9B1A-924044450EA3}|11.12. 4. feladat\\11.12. 4. feladat.csproj|c:\\github\\csharpe\\11.12\\11.12. 4. feladat\\addstudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B4C8607-4005-4532-9B1A-924044450EA3}|11.12. 4. feladat\\11.12. 4. feladat.csproj|solutionrelative:11.12. 4. feladat\\addstudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3B4C8607-4005-4532-9B1A-924044450EA3}|11.12. 4. feladat\\11.12. 4. feladat.csproj|c:\\github\\csharpe\\11.12\\11.12. 4. feladat\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B4C8607-4005-4532-9B1A-924044450EA3}|11.12. 4. feladat\\11.12. 4. feladat.csproj|solutionrelative:11.12. 4. feladat\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3B4C8607-4005-4532-9B1A-924044450EA3}|11.12. 4. feladat\\11.12. 4. feladat.csproj|C:\\GitHub\\Csharpe\\11.12\\11.12. 4. feladat\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -15,8 +15,8 @@
       "RelativeMoniker": "D:0:0:{3B4C8607-4005-4532-9B1A-924044450EA3}|11.12. 4. feladat\\11.12. 4. feladat.csproj|solutionrelative:11.12. 4. feladat\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B4C8607-4005-4532-9B1A-924044450EA3}|11.12. 4. feladat\\11.12. 4. feladat.csproj|c:\\github\\csharpe\\11.12\\11.12. 4. feladat\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B4C8607-4005-4532-9B1A-924044450EA3}|11.12. 4. feladat\\11.12. 4. feladat.csproj|solutionrelative:11.12. 4. feladat\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3B4C8607-4005-4532-9B1A-924044450EA3}|11.12. 4. feladat\\11.12. 4. feladat.csproj|c:\\github\\csharpe\\11.12\\11.12. 4. feladat\\addstudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B4C8607-4005-4532-9B1A-924044450EA3}|11.12. 4. feladat\\11.12. 4. feladat.csproj|solutionrelative:11.12. 4. feladat\\addstudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3B4C8607-4005-4532-9B1A-924044450EA3}|11.12. 4. feladat\\11.12. 4. feladat.csproj|C:\\GitHub\\Csharpe\\11.12\\11.12. 4. feladat\\addstudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -30,17 +30,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "AddStudents.cs",
               "DocumentMoniker": "C:\\GitHub\\Csharpe\\11.12\\11.12. 4. feladat\\AddStudents.cs",
               "RelativeDocumentMoniker": "11.12. 4. feladat\\AddStudents.cs",
               "ToolTip": "C:\\GitHub\\Csharpe\\11.12\\11.12. 4. feladat\\AddStudents.cs",
               "RelativeToolTip": "11.12. 4. feladat\\AddStudents.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAuwDIAAABhAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADIAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-12T11:43:27.391Z",
               "EditorCaption": ""
@@ -53,7 +53,7 @@
               "RelativeDocumentMoniker": "11.12. 4. feladat\\Students.cs",
               "ToolTip": "C:\\GitHub\\Csharpe\\11.12\\11.12. 4. feladat\\Students.cs",
               "RelativeToolTip": "11.12. 4. feladat\\Students.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAYwAoAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowAoAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-12T11:30:21.266Z",
               "EditorCaption": ""
@@ -72,13 +72,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\GitHub\\Csharpe\\11.12\\11.12. 4. feladat\\Form1.cs",
               "RelativeDocumentMoniker": "11.12. 4. feladat\\Form1.cs",
               "ToolTip": "C:\\GitHub\\Csharpe\\11.12\\11.12. 4. feladat\\Form1.cs",
               "RelativeToolTip": "11.12. 4. feladat\\Form1.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwCEAAADCAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBYAAABjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-12T11:37:42.319Z",
               "EditorCaption": ""
@@ -92,8 +92,7 @@
               "ToolTip": "C:\\GitHub\\Csharpe\\11.12\\11.12. 4. feladat\\AddStudents.cs [Design]",
               "RelativeToolTip": "11.12. 4. feladat\\AddStudents.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T15:16:45.625Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-11-12T15:16:45.625Z"
             }
           ]
         }

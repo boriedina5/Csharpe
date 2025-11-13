@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.13. 1. feladat", "..\11.13\11.13. 1. feladat\11.13. 1. feladat.csproj", "{88E744C2-D823-4190-829B-D7911DBD893F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.13. 2. feladat - Extra", "..\11.13\11.13. 2. feladat - Extra\11.13. 2. feladat - Extra.csproj", "{5374E810-9F7D-467E-9782-40EDE710476C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88E744C2-D823-4190-829B-D7911DBD893F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88E744C2-D823-4190-829B-D7911DBD893F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88E744C2-D823-4190-829B-D7911DBD893F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88E744C2-D823-4190-829B-D7911DBD893F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5374E810-9F7D-467E-9782-40EDE710476C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5374E810-9F7D-467E-9782-40EDE710476C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5374E810-9F7D-467E-9782-40EDE710476C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5374E810-9F7D-467E-9782-40EDE710476C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1239EB7-5AF4-451F-814D-E905A7C16BFF}
+	EndGlobalSection
+EndGlobal

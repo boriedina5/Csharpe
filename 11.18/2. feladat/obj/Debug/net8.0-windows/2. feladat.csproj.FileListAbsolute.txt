@@ -1,0 +1,16 @@
+C:\Users\Edina\source\repos\11.18\2. feladat\bin\Debug\net8.0-windows\2. feladat.exe
+C:\Users\Edina\source\repos\11.18\2. feladat\bin\Debug\net8.0-windows\2. feladat.deps.json
+C:\Users\Edina\source\repos\11.18\2. feladat\bin\Debug\net8.0-windows\2. feladat.runtimeconfig.json
+C:\Users\Edina\source\repos\11.18\2. feladat\bin\Debug\net8.0-windows\2. feladat.dll
+C:\Users\Edina\source\repos\11.18\2. feladat\bin\Debug\net8.0-windows\2. feladat.pdb
+C:\Users\Edina\source\repos\11.18\2. feladat\obj\Debug\net8.0-windows\_2._feladat.Form1.resources
+C:\Users\Edina\source\repos\11.18\2. feladat\obj\Debug\net8.0-windows\2. feladat.csproj.GenerateResource.cache
+C:\Users\Edina\source\repos\11.18\2. feladat\obj\Debug\net8.0-windows\2. feladat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edina\source\repos\11.18\2. feladat\obj\Debug\net8.0-windows\2. feladat.AssemblyInfoInputs.cache
+C:\Users\Edina\source\repos\11.18\2. feladat\obj\Debug\net8.0-windows\2. feladat.AssemblyInfo.cs
+C:\Users\Edina\source\repos\11.18\2. feladat\obj\Debug\net8.0-windows\2. feladat.csproj.CoreCompileInputs.cache
+C:\Users\Edina\source\repos\11.18\2. feladat\obj\Debug\net8.0-windows\2. feladat.dll
+C:\Users\Edina\source\repos\11.18\2. feladat\obj\Debug\net8.0-windows\refint\2. feladat.dll
+C:\Users\Edina\source\repos\11.18\2. feladat\obj\Debug\net8.0-windows\2. feladat.pdb
+C:\Users\Edina\source\repos\11.18\2. feladat\obj\Debug\net8.0-windows\2. feladat.genruntimeconfig.cache
+C:\Users\Edina\source\repos\11.18\2. feladat\obj\Debug\net8.0-windows\ref\2. feladat.dll

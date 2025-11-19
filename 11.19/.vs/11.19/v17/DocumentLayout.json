@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\GitHub\\Csharpe\\11.19\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E40AA62-269B-46E8-934A-FF62D8D13301}|11.19\\11.19.csproj|c:\\github\\csharpe\\11.19\\11.19\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E40AA62-269B-46E8-934A-FF62D8D13301}|11.19\\11.19.csproj|solutionrelative:11.19\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E40AA62-269B-46E8-934A-FF62D8D13301}|11.19\\11.19.csproj|c:\\github\\csharpe\\11.19\\11.19\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0E40AA62-269B-46E8-934A-FF62D8D13301}|11.19\\11.19.csproj|solutionrelative:11.19\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E40AA62-269B-46E8-934A-FF62D8D13301}|11.19\\11.19.csproj|c:\\github\\csharpe\\11.19\\11.19\\feladat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E40AA62-269B-46E8-934A-FF62D8D13301}|11.19\\11.19.csproj|solutionrelative:11.19\\feladat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\GitHub\\Csharpe\\11.19\\11.19\\Form1.cs",
+              "RelativeDocumentMoniker": "11.19\\Form1.cs",
+              "ToolTip": "C:\\GitHub\\Csharpe\\11.19\\11.19\\Form1.cs",
+              "RelativeToolTip": "11.19\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T12:50:12.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Feladat.cs",
+              "DocumentMoniker": "C:\\GitHub\\Csharpe\\11.19\\11.19\\Feladat.cs",
+              "RelativeDocumentMoniker": "11.19\\Feladat.cs",
+              "ToolTip": "C:\\GitHub\\Csharpe\\11.19\\11.19\\Feladat.cs",
+              "RelativeToolTip": "11.19\\Feladat.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBYAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T12:47:26.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\GitHub\\Csharpe\\11.19\\11.19\\Form1.cs",
+              "RelativeDocumentMoniker": "11.19\\Form1.cs",
+              "ToolTip": "C:\\GitHub\\Csharpe\\11.19\\11.19\\Form1.cs [Design]",
+              "RelativeToolTip": "11.19\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T12:44:18.781Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

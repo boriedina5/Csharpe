@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BevasarloLista", "BevasarloLista\BevasarloLista.csproj", "{5E47E353-402B-4B97-AA54-4DFF31F8CD3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Naptar", "Naptar\Naptar.csproj", "{24F92F6D-3226-4BB0-9729-4CA7763D458E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E47E353-402B-4B97-AA54-4DFF31F8CD3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E47E353-402B-4B97-AA54-4DFF31F8CD3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E47E353-402B-4B97-AA54-4DFF31F8CD3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E47E353-402B-4B97-AA54-4DFF31F8CD3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24F92F6D-3226-4BB0-9729-4CA7763D458E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24F92F6D-3226-4BB0-9729-4CA7763D458E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24F92F6D-3226-4BB0-9729-4CA7763D458E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24F92F6D-3226-4BB0-9729-4CA7763D458E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B3CBA23-8BD4-41B3-A694-D228A179042E}
+	EndGlobalSection
+EndGlobal

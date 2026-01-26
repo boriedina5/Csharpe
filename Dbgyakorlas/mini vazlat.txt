@@ -1,0 +1,17 @@
+[Price] DECIMAL(10, 2) - 1 param: melyik számrendszer, 2 param hány tizedes jegy
+
+
+
+
+context-dir - Context mappa
+ebben a hosszú parancsban van, hogy a filenévnél érdemes a "" -> '' cserélni
+Próbáld meg az alábbi módszerek egyikét a Package Manager Console-ban:
+
+
+1. Opció: Használj szimpla idézőjelet a fájlnévhez Cseréld ki a belső idézőjeleket szimplára ('), hogy ne ütközzenek a külső dupla idézőjelekkel:
+
+PowerShell
+
+dotnet ef dbcontext scaffold "Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename='C:\Users\Edina\OneDrive - BMSZC Bláthy Ottó Titusz Informatikai Technikum\Dokumentumok\ordersdatabase.mdf';Integrated Security=True;Connect Timeout=30" Microsoft.EntityFrameworkCore.SqlServer --context AppDatabase -o Models --project Dbgyakorlas
+
+2. Opció: Hagyd el a belső idézőjelet (ha nincs szóköz a névben, de itt van) Mivel a "OneDrive - BMSZC..." részben vannak szóközök, az idézőjel kötelező. Ha az 1. opció nem válik be, próbáld meg a karakterek "menekítését" (escaping) a visszaper jellel: \".

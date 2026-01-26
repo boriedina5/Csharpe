@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\GitHub\\Csharpe\\Dbgyakorlas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6921C44-02A5-443C-BCAD-C56CB704123F}|Dbgyakorlas\\Dbgyakorlas.csproj|c:\\github\\csharpe\\dbgyakorlas\\dbgyakorlas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6921C44-02A5-443C-BCAD-C56CB704123F}|Dbgyakorlas\\Dbgyakorlas.csproj|solutionrelative:dbgyakorlas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6921C44-02A5-443C-BCAD-C56CB704123F}|Dbgyakorlas\\Dbgyakorlas.csproj|c:\\github\\csharpe\\dbgyakorlas\\dbgyakorlas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F6921C44-02A5-443C-BCAD-C56CB704123F}|Dbgyakorlas\\Dbgyakorlas.csproj|solutionrelative:dbgyakorlas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6921C44-02A5-443C-BCAD-C56CB704123F}|Dbgyakorlas\\Dbgyakorlas.csproj|c:\\github\\csharpe\\dbgyakorlas\\dbgyakorlas\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6921C44-02A5-443C-BCAD-C56CB704123F}|Dbgyakorlas\\Dbgyakorlas.csproj|solutionrelative:dbgyakorlas\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6921C44-02A5-443C-BCAD-C56CB704123F}|Dbgyakorlas\\Dbgyakorlas.csproj|c:\\github\\csharpe\\dbgyakorlas\\dbgyakorlas\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6921C44-02A5-443C-BCAD-C56CB704123F}|Dbgyakorlas\\Dbgyakorlas.csproj|solutionrelative:dbgyakorlas\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\GitHub\\Csharpe\\Dbgyakorlas\\Dbgyakorlas\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Dbgyakorlas\\Models\\Customer.cs",
+              "ToolTip": "C:\\GitHub\\Csharpe\\Dbgyakorlas\\Dbgyakorlas\\Models\\Customer.cs",
+              "RelativeToolTip": "Dbgyakorlas\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAACUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T14:21:37.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\GitHub\\Csharpe\\Dbgyakorlas\\Dbgyakorlas\\Form1.cs",
+              "RelativeDocumentMoniker": "Dbgyakorlas\\Form1.cs",
+              "ToolTip": "C:\\GitHub\\Csharpe\\Dbgyakorlas\\Dbgyakorlas\\Form1.cs",
+              "RelativeToolTip": "Dbgyakorlas\\Form1.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwI4AAAACAQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T13:43:38.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\GitHub\\Csharpe\\Dbgyakorlas\\Dbgyakorlas\\Form1.cs",
+              "RelativeDocumentMoniker": "Dbgyakorlas\\Form1.cs",
+              "ToolTip": "C:\\GitHub\\Csharpe\\Dbgyakorlas\\Dbgyakorlas\\Form1.cs [Design]",
+              "RelativeToolTip": "Dbgyakorlas\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T13:51:28.487Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\GitHub\\Csharpe\\Dbgyakorlas\\Dbgyakorlas\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Dbgyakorlas\\Form1.Designer.cs",
+              "ToolTip": "C:\\GitHub\\Csharpe\\Dbgyakorlas\\Dbgyakorlas\\Form1.Designer.cs",
+              "RelativeToolTip": "Dbgyakorlas\\Form1.Designer.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAIAwwL8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T13:50:34.847Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

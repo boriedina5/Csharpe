@@ -1,0 +1,6 @@
+[Description] NVARCHAR(MAX) - van max is a nvarcharnál
+
+--forced - ha a táblákba módosítunk az összekötés után, mert a migration nem automatikus, ha csak a parancsba rontunk el hibát, nem kell
+
+
+timer, saveDialog stb.. nem hagyományos ui elem, valamit csinál a háttérben ui elem, ezeknek is lehet propertiejét állítani

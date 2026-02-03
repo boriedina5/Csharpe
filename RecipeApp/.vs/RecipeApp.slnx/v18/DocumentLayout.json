@@ -3,32 +3,32 @@
   "WorkspaceRootPath": "C:\\GitHub\\Csharpe\\RecipeApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{76799E08-114D-4F56-A77C-85B5D5B665FC}|RecipeApp\\RecipeApp.csproj|c:\\github\\csharpe\\recipeapp\\recipeapp\\models\\recipeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76799E08-114D-4F56-A77C-85B5D5B665FC}|RecipeApp\\RecipeApp.csproj|solutionrelative:recipeapp\\models\\recipeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8FA414E9-9E9D-6D20-33BE-85E20AEC5D10}|RecipeApp\\RecipeApp.csproj|c:\\github\\csharpe\\recipeapp\\recipeapp\\models\\recipeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FA414E9-9E9D-6D20-33BE-85E20AEC5D10}|RecipeApp\\RecipeApp.csproj|solutionrelative:recipeapp\\models\\recipeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{76799E08-114D-4F56-A77C-85B5D5B665FC}|RecipeApp\\RecipeApp.csproj|c:\\github\\csharpe\\recipeapp\\recipeapp\\models\\recipeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{76799E08-114D-4F56-A77C-85B5D5B665FC}|RecipeApp\\RecipeApp.csproj|C:\\GitHub\\Csharpe\\RecipeApp\\recipeapp\\models\\recipeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{76799E08-114D-4F56-A77C-85B5D5B665FC}|RecipeApp\\RecipeApp.csproj|solutionrelative:recipeapp\\models\\recipeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{76799E08-114D-4F56-A77C-85B5D5B665FC}|RecipeApp\\RecipeApp.csproj|c:\\github\\csharpe\\recipeapp\\recipeapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76799E08-114D-4F56-A77C-85B5D5B665FC}|RecipeApp\\RecipeApp.csproj|solutionrelative:recipeapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{76799E08-114D-4F56-A77C-85B5D5B665FC}|RecipeApp\\RecipeApp.csproj|c:\\github\\csharpe\\recipeapp\\recipeapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{76799E08-114D-4F56-A77C-85B5D5B665FC}|RecipeApp\\RecipeApp.csproj|C:\\GitHub\\Csharpe\\RecipeApp\\recipeapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{76799E08-114D-4F56-A77C-85B5D5B665FC}|RecipeApp\\RecipeApp.csproj|solutionrelative:recipeapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{76799E08-114D-4F56-A77C-85B5D5B665FC}|RecipeApp\\RecipeApp.csproj|c:\\github\\csharpe\\recipeapp\\recipeapp\\models\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76799E08-114D-4F56-A77C-85B5D5B665FC}|RecipeApp\\RecipeApp.csproj|solutionrelative:recipeapp\\models\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8FA414E9-9E9D-6D20-33BE-85E20AEC5D10}|RecipeApp\\RecipeApp.csproj|c:\\github\\csharpe\\recipeapp\\recipeapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FA414E9-9E9D-6D20-33BE-85E20AEC5D10}|RecipeApp\\RecipeApp.csproj|solutionrelative:recipeapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{76799E08-114D-4F56-A77C-85B5D5B665FC}|RecipeApp\\RecipeApp.csproj|c:\\github\\csharpe\\recipeapp\\recipeapp\\models\\userpantry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76799E08-114D-4F56-A77C-85B5D5B665FC}|RecipeApp\\RecipeApp.csproj|solutionrelative:recipeapp\\models\\userpantry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8FA414E9-9E9D-6D20-33BE-85E20AEC5D10}|RecipeApp\\RecipeApp.csproj|c:\\github\\csharpe\\recipeapp\\recipeapp\\models\\userpantry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FA414E9-9E9D-6D20-33BE-85E20AEC5D10}|RecipeApp\\RecipeApp.csproj|solutionrelative:recipeapp\\models\\userpantry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{76799E08-114D-4F56-A77C-85B5D5B665FC}|RecipeApp\\RecipeApp.csproj|c:\\github\\csharpe\\recipeapp\\recipeapp\\models\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76799E08-114D-4F56-A77C-85B5D5B665FC}|RecipeApp\\RecipeApp.csproj|solutionrelative:recipeapp\\models\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8FA414E9-9E9D-6D20-33BE-85E20AEC5D10}|RecipeApp\\RecipeApp.csproj|c:\\github\\csharpe\\recipeapp\\recipeapp\\models\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FA414E9-9E9D-6D20-33BE-85E20AEC5D10}|RecipeApp\\RecipeApp.csproj|solutionrelative:recipeapp\\models\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FA414E9-9E9D-6D20-33BE-85E20AEC5D10}|RecipeApp\\RecipeApp.csproj|c:\\github\\csharpe\\recipeapp\\recipeapp\\models\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FA414E9-9E9D-6D20-33BE-85E20AEC5D10}|RecipeApp\\RecipeApp.csproj|solutionrelative:recipeapp\\models\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -48,7 +48,7 @@
               "RelativeDocumentMoniker": "RecipeApp\\Models\\RecipeForm.cs",
               "ToolTip": "C:\\GitHub\\Csharpe\\RecipeApp\\RecipeApp\\Models\\RecipeForm.cs",
               "RelativeToolTip": "RecipeApp\\Models\\RecipeForm.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAYwDQAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAkwDQAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-22T12:07:35.219Z",
               "EditorCaption": ""
@@ -62,12 +62,11 @@
               "ToolTip": "C:\\GitHub\\Csharpe\\RecipeApp\\RecipeApp\\Models\\RecipeForm.cs [Design]",
               "RelativeToolTip": "RecipeApp\\Models\\RecipeForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-22T12:03:39.373Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-01-22T12:03:39.373Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\GitHub\\Csharpe\\RecipeApp\\RecipeApp\\Form1.cs",
               "RelativeDocumentMoniker": "RecipeApp\\Form1.cs",
@@ -80,7 +79,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "UserPantry.cs",
               "DocumentMoniker": "C:\\GitHub\\Csharpe\\RecipeApp\\RecipeApp\\Models\\UserPantry.cs",
               "RelativeDocumentMoniker": "RecipeApp\\Models\\UserPantry.cs",
@@ -88,12 +87,11 @@
               "RelativeToolTip": "RecipeApp\\Models\\UserPantry.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-22T10:04:14.695Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-22T10:04:14.695Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "Recipe.cs",
               "DocumentMoniker": "C:\\GitHub\\Csharpe\\RecipeApp\\RecipeApp\\Models\\Recipe.cs",
               "RelativeDocumentMoniker": "RecipeApp\\Models\\Recipe.cs",
@@ -101,12 +99,11 @@
               "RelativeToolTip": "RecipeApp\\Models\\Recipe.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAA3wBIAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-22T10:03:27.664Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-22T10:03:27.664Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Ingredient.cs",
               "DocumentMoniker": "C:\\GitHub\\Csharpe\\RecipeApp\\RecipeApp\\Models\\Ingredient.cs",
               "RelativeDocumentMoniker": "RecipeApp\\Models\\Ingredient.cs",
@@ -114,24 +111,18 @@
               "RelativeToolTip": "RecipeApp\\Models\\Ingredient.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAxwBEAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-22T10:02:41.062Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-22T10:02:41.062Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\GitHub\\Csharpe\\RecipeApp\\RecipeApp\\Form1.cs",
               "RelativeDocumentMoniker": "RecipeApp\\Form1.cs",
               "ToolTip": "C:\\GitHub\\Csharpe\\RecipeApp\\RecipeApp\\Form1.cs [Design]",
               "RelativeToolTip": "RecipeApp\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-22T09:42:55.162Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "WhenOpened": "2026-01-22T09:42:55.162Z"
             }
           ]
         }

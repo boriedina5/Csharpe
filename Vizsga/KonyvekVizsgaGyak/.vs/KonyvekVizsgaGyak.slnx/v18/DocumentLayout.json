@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\GitHub\\Csharpe\\KonyvekVizsgaGyak\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AEE12580-08CE-482E-8102-E328C8091FA5}|KonyvekVizsgaGyakWinForms\\KonyvekVizsgaGyakWinForms.csproj|c:\\github\\csharpe\\konyvekvizsgagyak\\konyvekvizsgagyakwinforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AEE12580-08CE-482E-8102-E328C8091FA5}|KonyvekVizsgaGyakWinForms\\KonyvekVizsgaGyakWinForms.csproj|solutionrelative:konyvekvizsgagyakwinforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DD3E213-2A29-4557-AC34-27134C3FBAF7}|KonyvekVizsgaGyak\\KonyvekVizsgaGyak.csproj|c:\\github\\csharpe\\konyvekvizsgagyak\\konyvekvizsgagyak\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DD3E213-2A29-4557-AC34-27134C3FBAF7}|KonyvekVizsgaGyak\\KonyvekVizsgaGyak.csproj|solutionrelative:konyvekvizsgagyak\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DD3E213-2A29-4557-AC34-27134C3FBAF7}|KonyvekVizsgaGyak\\KonyvekVizsgaGyak.csproj|c:\\github\\csharpe\\konyvekvizsgagyak\\konyvekvizsgagyak\\konyvek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DD3E213-2A29-4557-AC34-27134C3FBAF7}|KonyvekVizsgaGyak\\KonyvekVizsgaGyak.csproj|solutionrelative:konyvekvizsgagyak\\konyvek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\GitHub\\Csharpe\\KonyvekVizsgaGyak\\KonyvekVizsgaGyakWinForms\\Form1.cs",
+              "RelativeDocumentMoniker": "KonyvekVizsgaGyakWinForms\\Form1.cs",
+              "ToolTip": "C:\\GitHub\\Csharpe\\KonyvekVizsgaGyak\\KonyvekVizsgaGyakWinForms\\Form1.cs [Design]",
+              "RelativeToolTip": "KonyvekVizsgaGyakWinForms\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T08:23:34.942Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\GitHub\\Csharpe\\KonyvekVizsgaGyak\\KonyvekVizsgaGyak\\Program.cs",
+              "RelativeDocumentMoniker": "KonyvekVizsgaGyak\\Program.cs",
+              "ToolTip": "C:\\GitHub\\Csharpe\\KonyvekVizsgaGyak\\KonyvekVizsgaGyak\\Program.cs",
+              "RelativeToolTip": "KonyvekVizsgaGyak\\Program.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAmwDoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T07:37:40.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Konyvek.cs",
+              "DocumentMoniker": "C:\\GitHub\\Csharpe\\KonyvekVizsgaGyak\\KonyvekVizsgaGyak\\Konyvek.cs",
+              "RelativeDocumentMoniker": "KonyvekVizsgaGyak\\Konyvek.cs",
+              "ToolTip": "C:\\GitHub\\Csharpe\\KonyvekVizsgaGyak\\KonyvekVizsgaGyak\\Konyvek.cs",
+              "RelativeToolTip": "KonyvekVizsgaGyak\\Konyvek.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA1wBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T07:40:01.077Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

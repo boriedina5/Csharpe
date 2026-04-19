@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:vm="clr-namespace:MvvmBevezeto.ViewModels"
+             x:Class="MvvmBevezeto.MainPage">
+
+    <!--Az oldal új adatforrása, a TaskViewModel osztály lesz a vm névtérből-->
+    <ContentPage.BindingContext>
+        <vm:TaskViewModel/>
+    </ContentPage.BindingContext>
+
+    <ScrollView>
+        <VerticalStackLayout
+            Padding="30,0"
+            Spacing="25">
+            <Label Text="Task Manager" FontSize="Large" HorizontalOptions="Center"/>
+            <!--Új feladat hozzáadása-->
+            <!--Binding->dinamikus adatkötés (futás időben is változhat)-->
+            <Entry Placeholder="Task title.." Text="{Binding NewTask.Title}"/>
+            <Entry Placeholder="Description.." Text="{Binding NewTask.Description}"/>
+            <!--Ha commandot közvetlenül bindingolunk ui elemhez, akkor a default
+            event során fog executeolni (gombnál a click)-->
+            <Button Text="Add Task" Command="{Binding AddTaskCommand}"/>
+            
+            <!--Feladatok kilistázása-->
+            <CollectionView ItemsSource="{Binding Tasks}">
+                <CollectionView.ItemTemplate>
+                    <DataTemplate>
+                        <HorizontalStackLayout Padding="10" Spacing="10">
+                            <Label Text="{Binding Title}" FontSize="Large"/>
+                            <Label Text="{Binding Description}"/>
+                        </HorizontalStackLayout>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+            </CollectionView>
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>

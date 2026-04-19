@@ -1,0 +1,13 @@
+Név;Város;Idő
+Kiss Péter;Szeged;52
+Szabó Anna;Budapest;48
+Nagy Gábor;Debrecen;55
+Tóth Júlia;Győr;47
+Kovács Bence;Budapest;60
+Farkas Dóra;Pécs;53
+Molnár Dávid;Szeged;49
+Balogh Réka;Debrecen;51
+Varga Péter;Győr;46
+Szűcs Anna;Budapest;58
+Kelemen Ádám;Pécs;54
+Kiss Péter;Győr;50

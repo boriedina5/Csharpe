@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="FutasConsoleApp/FutasConsoleApp.csproj" />
+  <Project Path="FutasWinFormApp/FutasWinFormApp.csproj" />
+</Solution>

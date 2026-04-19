@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="../../../../../../../../GitHub/Csharpe/Calculator/Calculator/Calculator.csproj">
+    <Deploy Solution="Debug|*" />
+  </Project>
+</Solution>

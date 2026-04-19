@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="KonyvekVizsgaGyak/KonyvekVizsgaGyak.csproj" />
+  <Project Path="KonyvekVizsgaGyakWinForms/KonyvekVizsgaGyakWinForms.csproj" />
+</Solution>

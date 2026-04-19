@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MauiApp1.MainPage">
+
+    <ScrollView>
+        <VerticalStackLayout
+            Padding="30,0"
+            Spacing="25" x:Name="RootLayout">
+            <Label
+                Text="Háttérszín váltó"
+                HorizontalOptions="Center"
+                FontSize="24"/>
+            <Entry x:Name="ColorEntry"
+                   Placeholder="Szín neve"/>
+            <Button Text="Véletlen háttérszín"
+                    Clicked="Button_Clicked"/>
+            <Label x:Name="ColorLabel"
+                   Text="RGB"
+                   HorizontalOptions="Center"
+                   FontSize="18"
+                />
+
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>

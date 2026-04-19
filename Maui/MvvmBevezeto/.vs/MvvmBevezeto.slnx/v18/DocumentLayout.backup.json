@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tanul\u00F3\\Desktop\\12\\MvvmBevezeto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA71630B-BC92-4670-AF42-3C9DFE71BA06}|MvvmBevezeto\\MvvmBevezeto.csproj|c:\\users\\tanul\u00F3\\desktop\\12\\mvvmbevezeto\\mvvmbevezeto\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DA71630B-BC92-4670-AF42-3C9DFE71BA06}|MvvmBevezeto\\MvvmBevezeto.csproj|solutionrelative:mvvmbevezeto\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA71630B-BC92-4670-AF42-3C9DFE71BA06}|MvvmBevezeto\\MvvmBevezeto.csproj|c:\\users\\tanul\u00F3\\desktop\\12\\mvvmbevezeto\\mvvmbevezeto\\viewmodels\\taskviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA71630B-BC92-4670-AF42-3C9DFE71BA06}|MvvmBevezeto\\MvvmBevezeto.csproj|solutionrelative:mvvmbevezeto\\viewmodels\\taskviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA71630B-BC92-4670-AF42-3C9DFE71BA06}|MvvmBevezeto\\MvvmBevezeto.csproj|c:\\users\\tanul\u00F3\\desktop\\12\\mvvmbevezeto\\mvvmbevezeto\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA71630B-BC92-4670-AF42-3C9DFE71BA06}|MvvmBevezeto\\MvvmBevezeto.csproj|solutionrelative:mvvmbevezeto\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA71630B-BC92-4670-AF42-3C9DFE71BA06}|MvvmBevezeto\\MvvmBevezeto.csproj|c:\\users\\tanul\u00F3\\desktop\\12\\mvvmbevezeto\\mvvmbevezeto\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA71630B-BC92-4670-AF42-3C9DFE71BA06}|MvvmBevezeto\\MvvmBevezeto.csproj|solutionrelative:mvvmbevezeto\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaskViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Tanul\u00F3\\Desktop\\12\\MvvmBevezeto\\MvvmBevezeto\\ViewModels\\TaskViewModel.cs",
+              "RelativeDocumentMoniker": "MvvmBevezeto\\ViewModels\\TaskViewModel.cs",
+              "ToolTip": "C:\\Users\\Tanul\u00F3\\Desktop\\12\\MvvmBevezeto\\MvvmBevezeto\\ViewModels\\TaskViewModel.cs",
+              "RelativeToolTip": "MvvmBevezeto\\ViewModels\\TaskViewModel.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T07:26:49.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaskItem.cs",
+              "DocumentMoniker": "C:\\Users\\Tanul\u00F3\\Desktop\\12\\MvvmBevezeto\\MvvmBevezeto\\Models\\TaskItem.cs",
+              "RelativeDocumentMoniker": "MvvmBevezeto\\Models\\TaskItem.cs",
+              "ToolTip": "C:\\Users\\Tanul\u00F3\\Desktop\\12\\MvvmBevezeto\\MvvmBevezeto\\Models\\TaskItem.cs",
+              "RelativeToolTip": "MvvmBevezeto\\Models\\TaskItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T07:24:45.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Tanul\u00F3\\Desktop\\12\\MvvmBevezeto\\MvvmBevezeto\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "MvvmBevezeto\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Tanul\u00F3\\Desktop\\12\\MvvmBevezeto\\MvvmBevezeto\\MainPage.xaml.cs",
+              "RelativeToolTip": "MvvmBevezeto\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T07:20:47.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Tanul\u00F3\\Desktop\\12\\MvvmBevezeto\\MvvmBevezeto\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MvvmBevezeto\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\Tanul\u00F3\\Desktop\\12\\MvvmBevezeto\\MvvmBevezeto\\MainPage.xaml",
+              "RelativeToolTip": "MvvmBevezeto\\MainPage.xaml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-03T07:20:37.11Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

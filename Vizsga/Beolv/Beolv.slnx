@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Beolv/Beolv.csproj" />
+  <Project Path="beolvFormApp/beolvFormApp.csproj" />
+</Solution>

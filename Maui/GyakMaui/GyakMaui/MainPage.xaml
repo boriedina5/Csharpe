@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="GyakMaui.MainPage">
+
+    <ScrollView>
+        <VerticalStackLayout
+            Padding="30,0"
+            Spacing="25">
+            <!--Beviteli mező-->
+            <Entry x:Name="TitleEntry" Placeholder="Title..." />
+            <Entry x:Name="AuthorEntry" Placeholder="Author..." />
+            <Stepper x:Name="YearStepper" Minimum="1900" Maximum="2026" ValueChanged="Stepper_ValueChanged"/>
+            <Label x:Name="StepperLabel" Text="" />
+            <Button x:Name="AddBtn" Text="Add" Clicked="AddBtn_Clicked"/>
+
+
+            <Button x:Name="SortBtn" Text="Sort by Title" Clicked="SortBtn_Clicked"/>
+            <Button x:Name="ResetBtn" Text="Reset" Clicked="ResetBtn_Clicked"/>
+            <CollectionView x:Name="BooksCollectionView">
+                <!--Megjelenítés-->
+                <CollectionView.ItemTemplate>
+                    <DataTemplate>
+                        <HorizontalStackLayout Spacing="10">
+                            <Label Text="{Binding Title}" FontAttributes="Bold"/>
+                            <Label Text="{Binding Author}" FontAttributes="Italic"/>
+                            <Label Text="{Binding Year}"/>
+                        </HorizontalStackLayout>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+            </CollectionView>
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>

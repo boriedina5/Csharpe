@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\GitHub\\Csharpe\\OsszekotesLaravel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{984193C2-1473-4A7E-9E3F-890E6A7C9891}|OsszekotesLaravel\\OsszekotesLaravel.csproj|c:\\github\\csharpe\\osszekoteslaravel\\osszekoteslaravel\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{984193C2-1473-4A7E-9E3F-890E6A7C9891}|OsszekotesLaravel\\OsszekotesLaravel.csproj|solutionrelative:osszekoteslaravel\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{984193C2-1473-4A7E-9E3F-890E6A7C9891}|OsszekotesLaravel\\OsszekotesLaravel.csproj|c:\\github\\csharpe\\osszekoteslaravel\\osszekoteslaravel\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{984193C2-1473-4A7E-9E3F-890E6A7C9891}|OsszekotesLaravel\\OsszekotesLaravel.csproj|solutionrelative:osszekoteslaravel\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{984193C2-1473-4A7E-9E3F-890E6A7C9891}|OsszekotesLaravel\\OsszekotesLaravel.csproj|c:\\github\\csharpe\\osszekoteslaravel\\osszekoteslaravel\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{984193C2-1473-4A7E-9E3F-890E6A7C9891}|OsszekotesLaravel\\OsszekotesLaravel.csproj|solutionrelative:osszekoteslaravel\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{984193C2-1473-4A7E-9E3F-890E6A7C9891}|OsszekotesLaravel\\OsszekotesLaravel.csproj|c:\\github\\csharpe\\osszekoteslaravel\\osszekoteslaravel\\osszekoteslaravel.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{984193C2-1473-4A7E-9E3F-890E6A7C9891}|OsszekotesLaravel\\OsszekotesLaravel.csproj|solutionrelative:osszekoteslaravel\\osszekoteslaravel.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\GitHub\\Csharpe\\OsszekotesLaravel\\OsszekotesLaravel\\Form1.cs",
+              "RelativeDocumentMoniker": "OsszekotesLaravel\\Form1.cs",
+              "ToolTip": "C:\\GitHub\\Csharpe\\OsszekotesLaravel\\OsszekotesLaravel\\Form1.cs [Design]",
+              "RelativeToolTip": "OsszekotesLaravel\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T14:27:15.067Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\GitHub\\Csharpe\\OsszekotesLaravel\\OsszekotesLaravel\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "OsszekotesLaravel\\Form1.Designer.cs",
+              "ToolTip": "C:\\GitHub\\Csharpe\\OsszekotesLaravel\\OsszekotesLaravel\\Form1.Designer.cs",
+              "RelativeToolTip": "OsszekotesLaravel\\Form1.Designer.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAowCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T14:26:59.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\GitHub\\Csharpe\\OsszekotesLaravel\\OsszekotesLaravel\\Form1.cs",
+              "RelativeDocumentMoniker": "OsszekotesLaravel\\Form1.cs",
+              "ToolTip": "C:\\GitHub\\Csharpe\\OsszekotesLaravel\\OsszekotesLaravel\\Form1.cs",
+              "RelativeToolTip": "OsszekotesLaravel\\Form1.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAwwAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T13:34:03.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OsszekotesLaravel",
+              "DocumentMoniker": "C:\\GitHub\\Csharpe\\OsszekotesLaravel\\OsszekotesLaravel\\OsszekotesLaravel.csproj",
+              "RelativeDocumentMoniker": "OsszekotesLaravel\\OsszekotesLaravel.csproj",
+              "ToolTip": "C:\\GitHub\\Csharpe\\OsszekotesLaravel\\OsszekotesLaravel\\OsszekotesLaravel.csproj",
+              "RelativeToolTip": "OsszekotesLaravel\\OsszekotesLaravel.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-16T13:35:46.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

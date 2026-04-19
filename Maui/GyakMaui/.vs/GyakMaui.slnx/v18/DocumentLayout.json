@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\GitHub\\Csharpe\\GyakMaui\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03C329E3-5500-1538-C52D-390AC318B7BB}|GyakMaui\\GyakMaui.csproj|c:\\github\\csharpe\\gyakmaui\\gyakmaui\\mainpage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{03C329E3-5500-1538-C52D-390AC318B7BB}|GyakMaui\\GyakMaui.csproj|solutionrelative:gyakmaui\\mainpage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03C329E3-5500-1538-C52D-390AC318B7BB}|GyakMaui\\GyakMaui.csproj|c:\\github\\csharpe\\gyakmaui\\gyakmaui\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{03C329E3-5500-1538-C52D-390AC318B7BB}|GyakMaui\\GyakMaui.csproj|solutionrelative:gyakmaui\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\GitHub\\Csharpe\\GyakMaui\\GyakMaui\\MainPage.xaml",
+              "RelativeDocumentMoniker": "GyakMaui\\MainPage.xaml",
+              "ToolTip": "C:\\GitHub\\Csharpe\\GyakMaui\\GyakMaui\\MainPage.xaml",
+              "RelativeToolTip": "GyakMaui\\MainPage.xaml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-05T12:41:35.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\GitHub\\Csharpe\\GyakMaui\\GyakMaui\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "GyakMaui\\MainPage.xaml.cs",
+              "ToolTip": "C:\\GitHub\\Csharpe\\GyakMaui\\GyakMaui\\MainPage.xaml.cs",
+              "RelativeToolTip": "GyakMaui\\MainPage.xaml.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAkwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T12:48:50.588Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

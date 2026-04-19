@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\GitHub\\Csharpe\\Futas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2E1B1D8-EF2E-4EE2-A7DE-38CDFD14B2F6}|FutasConsoleApp\\FutasConsoleApp.csproj|c:\\github\\csharpe\\futas\\futasconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2E1B1D8-EF2E-4EE2-A7DE-38CDFD14B2F6}|FutasConsoleApp\\FutasConsoleApp.csproj|solutionrelative:futasconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2E1B1D8-EF2E-4EE2-A7DE-38CDFD14B2F6}|FutasConsoleApp\\FutasConsoleApp.csproj|c:\\github\\csharpe\\futas\\futasconsoleapp\\futas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2E1B1D8-EF2E-4EE2-A7DE-38CDFD14B2F6}|FutasConsoleApp\\FutasConsoleApp.csproj|solutionrelative:futasconsoleapp\\futas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2E1B1D8-EF2E-4EE2-A7DE-38CDFD14B2F6}|FutasConsoleApp\\FutasConsoleApp.csproj|c:\\github\\csharpe\\futas\\futasconsoleapp\\futas.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C2E1B1D8-EF2E-4EE2-A7DE-38CDFD14B2F6}|FutasConsoleApp\\FutasConsoleApp.csproj|solutionrelative:futasconsoleapp\\futas.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\GitHub\\Csharpe\\Futas\\FutasConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "FutasConsoleApp\\Program.cs",
+              "ToolTip": "C:\\GitHub\\Csharpe\\Futas\\FutasConsoleApp\\Program.cs",
+              "RelativeToolTip": "FutasConsoleApp\\Program.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAgwGYAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T08:50:42.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Futas.cs",
+              "DocumentMoniker": "C:\\GitHub\\Csharpe\\Futas\\FutasConsoleApp\\Futas.cs",
+              "RelativeDocumentMoniker": "FutasConsoleApp\\Futas.cs",
+              "ToolTip": "C:\\GitHub\\Csharpe\\Futas\\FutasConsoleApp\\Futas.cs",
+              "RelativeToolTip": "FutasConsoleApp\\Futas.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T08:51:09.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "futas.txt",
+              "DocumentMoniker": "C:\\GitHub\\Csharpe\\Futas\\FutasConsoleApp\\futas.txt",
+              "RelativeDocumentMoniker": "FutasConsoleApp\\futas.txt",
+              "ToolTip": "C:\\GitHub\\Csharpe\\Futas\\FutasConsoleApp\\futas.txt",
+              "RelativeToolTip": "FutasConsoleApp\\futas.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-03-11T08:51:29.915Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

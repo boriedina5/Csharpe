@@ -1,0 +1,16 @@
+C:\GitHub\Csharpe\KonyvekVizsgaGyak\KonyvekVizsgaGyak\obj\Debug\net10.0\KonyvekVizsgaGyak.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\Csharpe\KonyvekVizsgaGyak\KonyvekVizsgaGyak\obj\Debug\net10.0\KonyvekVizsgaGyak.AssemblyInfoInputs.cache
+C:\GitHub\Csharpe\KonyvekVizsgaGyak\KonyvekVizsgaGyak\obj\Debug\net10.0\KonyvekVizsgaGyak.AssemblyInfo.cs
+C:\GitHub\Csharpe\KonyvekVizsgaGyak\KonyvekVizsgaGyak\obj\Debug\net10.0\KonyvekVizsgaGyak.csproj.CoreCompileInputs.cache
+C:\GitHub\Csharpe\KonyvekVizsgaGyak\KonyvekVizsgaGyak\obj\Debug\net10.0\KonyvekVizsgaGyak.sourcelink.json
+C:\GitHub\Csharpe\KonyvekVizsgaGyak\KonyvekVizsgaGyak\bin\Debug\net10.0\KonyvekVizsgaGyak.exe
+C:\GitHub\Csharpe\KonyvekVizsgaGyak\KonyvekVizsgaGyak\bin\Debug\net10.0\kolcsonzesek.txt
+C:\GitHub\Csharpe\KonyvekVizsgaGyak\KonyvekVizsgaGyak\bin\Debug\net10.0\KonyvekVizsgaGyak.deps.json
+C:\GitHub\Csharpe\KonyvekVizsgaGyak\KonyvekVizsgaGyak\bin\Debug\net10.0\KonyvekVizsgaGyak.runtimeconfig.json
+C:\GitHub\Csharpe\KonyvekVizsgaGyak\KonyvekVizsgaGyak\bin\Debug\net10.0\KonyvekVizsgaGyak.dll
+C:\GitHub\Csharpe\KonyvekVizsgaGyak\KonyvekVizsgaGyak\bin\Debug\net10.0\KonyvekVizsgaGyak.pdb
+C:\GitHub\Csharpe\KonyvekVizsgaGyak\KonyvekVizsgaGyak\obj\Debug\net10.0\KonyvekVizsgaGyak.dll
+C:\GitHub\Csharpe\KonyvekVizsgaGyak\KonyvekVizsgaGyak\obj\Debug\net10.0\refint\KonyvekVizsgaGyak.dll
+C:\GitHub\Csharpe\KonyvekVizsgaGyak\KonyvekVizsgaGyak\obj\Debug\net10.0\KonyvekVizsgaGyak.pdb
+C:\GitHub\Csharpe\KonyvekVizsgaGyak\KonyvekVizsgaGyak\obj\Debug\net10.0\KonyvekVizsgaGyak.genruntimeconfig.cache
+C:\GitHub\Csharpe\KonyvekVizsgaGyak\KonyvekVizsgaGyak\obj\Debug\net10.0\ref\KonyvekVizsgaGyak.dll

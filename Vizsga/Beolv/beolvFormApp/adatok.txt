@@ -1,0 +1,9 @@
+Név;Kor;Város
+Kiss Péter;19;Győr
+Szabó Júlia;27;Szeged
+Varga László;34;Pécs
+Horváth Eszter;22;Miskolc
+Tóth Gergő;41;Kecskemét
+Nagy Zsófia;29;Nyíregyháza
+Molnár Ádám;18;Eger
+Farkas Dóra;36;Székesfehérvár

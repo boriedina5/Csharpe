@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\GitHub\\Csharpe\\Beolv\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8E6410-563A-9E54-7479-743785712486}|Beolv\\Beolv.csproj|c:\\github\\csharpe\\beolv\\beolv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8E6410-563A-9E54-7479-743785712486}|Beolv\\Beolv.csproj|solutionrelative:beolv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5BBB780-1D90-B148-C8F9-8F200B9BD330}|beolvFormApp\\beolvFormApp.csproj|c:\\github\\csharpe\\beolv\\beolvformapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5BBB780-1D90-B148-C8F9-8F200B9BD330}|beolvFormApp\\beolvFormApp.csproj|solutionrelative:beolvformapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E42781C5-D0CF-4795-859B-2BAD0247FA90}|beolvFormApp\\beolvFormApp.csproj|C:\\GitHub\\Csharpe\\Beolv\\beolvformapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E42781C5-D0CF-4795-859B-2BAD0247FA90}|beolvFormApp\\beolvFormApp.csproj|solutionrelative:beolvformapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5BBB780-1D90-B148-C8F9-8F200B9BD330}|beolvFormApp\\beolvFormApp.csproj|c:\\github\\csharpe\\beolv\\beolvformapp\\model\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5BBB780-1D90-B148-C8F9-8F200B9BD330}|beolvFormApp\\beolvFormApp.csproj|solutionrelative:beolvformapp\\model\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5BBB780-1D90-B148-C8F9-8F200B9BD330}|beolvFormApp\\beolvFormApp.csproj|c:\\github\\csharpe\\beolv\\beolvformapp\\beolvformapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C5BBB780-1D90-B148-C8F9-8F200B9BD330}|beolvFormApp\\beolvFormApp.csproj|solutionrelative:beolvformapp\\beolvformapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\GitHub\\Csharpe\\Beolv\\Beolv\\Program.cs",
+              "RelativeDocumentMoniker": "Beolv\\Program.cs",
+              "ToolTip": "C:\\GitHub\\Csharpe\\Beolv\\Beolv\\Program.cs",
+              "RelativeToolTip": "Beolv\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T13:26:58.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\GitHub\\Csharpe\\Beolv\\beolvFormApp\\Form1.cs",
+              "RelativeDocumentMoniker": "beolvFormApp\\Form1.cs",
+              "ToolTip": "C:\\GitHub\\Csharpe\\Beolv\\beolvFormApp\\Form1.cs",
+              "RelativeToolTip": "beolvFormApp\\Form1.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAQwDgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T13:18:41.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\GitHub\\Csharpe\\Beolv\\beolvFormApp\\Model\\Person.cs",
+              "RelativeDocumentMoniker": "beolvFormApp\\Model\\Person.cs",
+              "ToolTip": "C:\\GitHub\\Csharpe\\Beolv\\beolvFormApp\\Model\\Person.cs",
+              "RelativeToolTip": "beolvFormApp\\Model\\Person.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBEAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T13:14:45.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "beolvFormApp.csproj",
+              "DocumentMoniker": "C:\\GitHub\\Csharpe\\Beolv\\beolvFormApp\\beolvFormApp.csproj",
+              "RelativeDocumentMoniker": "beolvFormApp\\beolvFormApp.csproj",
+              "ToolTip": "C:\\GitHub\\Csharpe\\Beolv\\beolvFormApp\\beolvFormApp.csproj",
+              "RelativeToolTip": "beolvFormApp\\beolvFormApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-09T13:08:51.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\GitHub\\Csharpe\\Beolv\\beolvFormApp\\Form1.cs",
+              "RelativeDocumentMoniker": "beolvFormApp\\Form1.cs",
+              "ToolTip": "C:\\GitHub\\Csharpe\\Beolv\\beolvFormApp\\Form1.cs [Design]",
+              "RelativeToolTip": "beolvFormApp\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T13:00:10.225Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
